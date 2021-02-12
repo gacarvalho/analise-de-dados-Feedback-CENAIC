@@ -1,4 +1,4 @@
-![Sobre: Título do projeto ](https://github.com/gacarvalho/Projeto-CENAIC-Feedback/blob/main/Image/titulo-img-readme-png.png?raw=true)
+![Sobre: Título do projeto ](https://github.com/gacarvalho/analise-de-dados-Feedback-CENAIC/blob/main/Image/titulo-img-readme-png.png?raw=true)
 
 # Análise de dados baseado em FeedBack
   
@@ -18,4 +18,4 @@ Lembrando que, faltou uns 20% dos alunos responderem, entretanto, a análise nã
 
 [💡 Acessar um vídeo da interface do sistema](https://www.linkedin.com/feed/update/urn:li:activity:6746062874340282368/)
 
-![Dashboard FeedBack CENAIC - CENTRO NACIONAL INTEGRADO DE CURSOS](https://github.com/gacarvalho/Projeto-CENAIC-Feedback/blob/main/Image/CENAIC_PBI.gif?raw=true)
+![Dashboard FeedBack CENAIC - CENTRO NACIONAL INTEGRADO DE CURSOS](https://github.com/gacarvalho/analise-de-dados-Feedback-CENAIC/blob/main/Image/CENAIC_PBI.gif?raw=true)
